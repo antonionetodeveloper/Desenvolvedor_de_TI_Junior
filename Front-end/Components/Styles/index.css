@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;1,700&display=swap');
+
+body{
+    font-family: 'Roboto';
+}
+
+main > #grid{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div#grid > div{
+    margin-right: 7.5%;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+}
+
+div#grid > div > ul{
+    display: inline-block;
+    background-color: aqua;
+    border-radius: 5em;
+    box-shadow: 5px 4px 9px rgba(0, 0, 0, 0.712);
+    width: 12em;
+}
+div#grid > div#status{
+    margin-right: 0;
+}
+
+div#grid > div > ul> li, a > li{
+    margin-bottom: 0.5em;
+}
+
+
+
+a#footer{
+    margin-top: 10%;
+    font-family: 'Roboto';
+    display: flex;
+    justify-content: end;
+    align-self: flex-end;
+}
