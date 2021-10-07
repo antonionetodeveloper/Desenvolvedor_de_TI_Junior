@@ -20,24 +20,46 @@ div#grid > div{
 div#grid > div > ul{
     display: inline-block;
     background-color: aqua;
-    border-radius: 5em;
+    border-radius: 1em;
     box-shadow: 5px 4px 9px rgba(0, 0, 0, 0.712);
     width: 12em;
-}
-div#grid > div#status{
-    margin-right: 0;
 }
 
 div#grid > div > ul> li, a > li{
     margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    font-weight: 300;
+    font-size: 14pt;
+    color: black;
+    /*list-style-type: none;*/
 }
 
 
 
-a#footer{
-    margin-top: 10%;
-    font-family: 'Roboto';
+footer > p{
+   
     display: flex;
     justify-content: end;
     align-self: flex-end;
+}
+
+a#footer{
+    margin-top: 10%;
+    font-family: 'Roboto';
+    transition: 0.3s;
+    border-radius: 5em;
+    width: 13em;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+footer > p:hover{
+    color: white;
+
+}
+a#footer:hover{
+    background-color: rgb(15, 13, 27);
+    color: white;
+    text-decoration: underline;
 }
