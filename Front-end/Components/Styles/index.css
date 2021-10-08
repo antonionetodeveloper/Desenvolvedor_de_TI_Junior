@@ -25,13 +25,20 @@ div#grid > div > ul{
     width: 12em;
 }
 
-div#grid > div > ul> li, a > li{
+div#grid > div > ul> li{
     margin-bottom: 0.5em;
     margin-top: 0.5em;
     font-weight: 300;
     font-size: 14pt;
     color: black;
     /*list-style-type: none;*/
+}
+ul > li > a{
+    color: black;
+    text-decoration: none;
+}
+ul.documento > li > a:hover{
+    text-decoration: underline;   
 }
 
 
