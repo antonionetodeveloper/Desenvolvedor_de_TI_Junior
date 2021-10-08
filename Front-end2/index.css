@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;1,700&display=swap');
+
+body{
+    margin: 0;
+    font-family: 'Roboto';
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(90deg, orange 40%, cyan);
+    height: 100vh;
+    gap: 1em;
+
+}
+
+h2{
+    margin-left: 5%;
+}
+
+.card {
+    width: 250px;
+    height: 250px;
+    background: white;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column; 
+    transition: 0.4s;
+}
+
+.card:hover {
+    width: 300px;
+    height: 300px;
+}
