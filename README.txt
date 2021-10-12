@@ -1,4 +1,4 @@
-###Desafios JIX
+**Desafios JIX
 
 resolução do front-end:
     Eu dividi em 2 possiveis resoluções:
