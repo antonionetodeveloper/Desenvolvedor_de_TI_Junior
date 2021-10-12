@@ -34,7 +34,6 @@ div#grid > div > ul{
 div#grid > div > ul> li{
     margin-bottom: 0.5em;
     margin-top: 0.5em;
-    font-weight: 300;
     font-weight: 400;
     font-size: 14pt;
     color: white;
