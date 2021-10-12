@@ -1,6 +1,6 @@
 # Desafios JIX
 
-resolução do front-end:
+## resolução do front-end:
     Eu dividi em 2 possiveis resoluções:
         
     A "front-end" e a "Front-end2 (OPICIONAL)"
@@ -14,7 +14,7 @@ resolução do front-end:
     que comporta animações interessantes
 
 
-resolução do back-end:
+## resolução do back-end:
     src -> "Back-end/connection.js"
     A variavel "CONSULTA" devolve um OBJETOcom as 
     informaçoes do usuario.
