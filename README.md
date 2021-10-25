@@ -16,5 +16,5 @@
 
 ## Resolução do back-end:
     src -> "Back-end/connection.js"
-    A variavel "CONSULTA" devolve um OBJETOcom as 
+    A variavel "CONSULTA" devolve um OBJETO com as 
     informaçoes do usuario.
