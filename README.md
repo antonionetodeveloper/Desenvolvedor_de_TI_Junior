@@ -14,6 +14,7 @@
     -A "front-end2 (OPICIONAL)" eu deixei como se fosse uma "segunda
     opção", tambem com suas qualidades, com destaque em suas responsividade
     que comporta animações interessantes
+    https://antonionetodeveloper.github.io/Desenvolvedor_de_TI_Junior/Front-end/Front-end2%20(OPICIONAL)/
 
 
 ## Resolução do back-end:
